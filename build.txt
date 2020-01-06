@@ -1,4 +1,0 @@
-author = Smile Dev
-version = 0.1
-displayName = The Mire
-buildIgnore = *.csproj, *.vs
